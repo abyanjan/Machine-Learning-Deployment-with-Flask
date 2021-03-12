@@ -1,9 +1,12 @@
-# Movie-review-sentiment-analysis
+# Deplyoing Machine Learning models (Sentiment Analysis/Text classification) with Flask
 
-This is a simple sentiment analysis of movie reviews using nltk vader-lexicon and creating a web app using Flask.
+## Contents
 
+- Movie-review-sentiment-analysis : 
+    - Sentiment Analysis of movie reviews with nltk vader-lexicon 
+    - Deploying the model with Flask app on Heroku
 
-A demo flask app of the sentiment analysis deployed on heroku :
-https://movie-review-demo-sent.herokuapp.com/
+    A demo flask app of the sentiment analysis deployed on heroku :
+    https://movie-review-demo-sent.herokuapp.com/
 
-![Movie Review Sentiment Analysis App](https://github.com/abyanjan/movie-review-sentiment-analysis/blob/master/img.png)
+   ![Movie Review Sentiment Analysis App](https://github.com/abyanjan/movie-review-sentiment-analysis/blob/master/img.png)
