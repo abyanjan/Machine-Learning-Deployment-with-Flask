@@ -9,4 +9,4 @@
     A demo flask app of the sentiment analysis deployed on heroku :
     https://movie-review-demo-sent.herokuapp.com/
 
-   ![Movie Review Sentiment Analysis App](https://github.com/abyanjan/movie-review-sentiment-analysis/blob/master/img.png)
+  <img src= "https://github.com/abyanjan/ML-Flask/blob/master/Falsk-web-app/img.png" width=400 height=400>
